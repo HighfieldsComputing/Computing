@@ -1,0 +1,42 @@
+Fundamentals of computing systems
+    - Hardware + software
+    -Classification of software
+    -Application software
+    -System software
+    -Application software
+    -Programming Language (Machine, assembly, imperative high level language abd declarative language)
+    -Types of program
+    
+Fundamental hardware elements of computers
+    -Logic gates
+    -Boolean algebra
+    
+Machine level architecture
+    -Internal + External hardware components of a computer
+    -Characteristics of a processo-Structure and role of a processor
+    -Machine code and processor 
+    -The fetch execute cycle
+
+Hardware devices
+    -Input and output devices
+    -Secondary storage devices
+
+The structure of the internet
+    -Internet and uses
+    -World wide web(www)
+    -Intranet
+    -Uniform resource locator(URL)
+    -Uniform resource indentifier(URi)
+    -Domain names and IP adresses
+    -Internet registries and internet registers
+    -Internet services providers (ISP)
+    -Domain name server(DNS)
+    -Client server model 
+    -Comon standards protocols:TCP/IP, FTP, HTTP, TELNET, pop3, SMTP, well known ports, client ports and HTTPS
+    -Web page design 
+    -Webpage construction 
+    -HTML and style sheets 
+
+Consequences of uses of computing 
+    -Legal + ethical issues 
+    -Economical and social issues 
