@@ -1,0 +1,16 @@
+C:\Users\Student\AppData\Local\Temporary Projects\First_project\bin\Debug\First_project.exe
+C:\Users\Student\AppData\Local\Temporary Projects\First_project\bin\Debug\First_project.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\First_project\bin\Debug\First_project.xml
+C:\Users\Student\AppData\Local\Temporary Projects\First_project\obj\x86\Debug\First_project.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\First_project\obj\x86\Debug\First_project.vbproj.GenerateResource.Cache
+C:\Users\Student\AppData\Local\Temporary Projects\First_project\obj\x86\Debug\First_project.exe
+C:\Users\Student\AppData\Local\Temporary Projects\First_project\obj\x86\Debug\First_project.xml
+C:\Users\Student\AppData\Local\Temporary Projects\First_project\obj\x86\Debug\First_project.pdb
+C:\Users\Student\documents\visual studio 2010\Projects\First_project\First_project\obj\x86\Debug\First_project.exe
+C:\Users\Student\documents\visual studio 2010\Projects\First_project\First_project\obj\x86\Debug\First_project.xml
+C:\Users\Student\documents\visual studio 2010\Projects\First_project\First_project\obj\x86\Debug\First_project.pdb
+C:\Users\Student\Documents\Visual Studio 2010\Projects\First_project\First_project\bin\Debug\First_project.exe
+C:\Users\Student\Documents\Visual Studio 2010\Projects\First_project\First_project\bin\Debug\First_project.pdb
+C:\Users\Student\Documents\Visual Studio 2010\Projects\First_project\First_project\bin\Debug\First_project.xml
+C:\Users\Student\Documents\Visual Studio 2010\Projects\First_project\First_project\obj\x86\Debug\First_project.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\First_project\First_project\obj\x86\Debug\First_project.vbproj.GenerateResource.Cache
